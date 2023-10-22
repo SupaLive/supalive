@@ -1,5 +1,19 @@
 
 
+## 0.0.17 (2023-10-22)
+
+
+### Bug Fixes
+
+* Remove unused files 5ab3399
+
+## 0.0.16 (2023-10-22)
+
+
+### Bug Fixes
+
+* Fix alert text for long words
+
 ## 0.0.15 (2023-10-22)
 
 
