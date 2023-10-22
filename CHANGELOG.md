@@ -1,5 +1,37 @@
 
 
+## 0.0.15 (2023-10-22)
+
+
+### Bug Fixes
+
+* Add sub gift info and raid info to alerts
+* Fix sub info period for youtube subscriptions
+* Prevent twitch reconnection duplicated messages
+
+## 0.0.14 (2023-10-21)
+
+
+### Bug Fixes
+
+* Fix alert rule for word/value range
+
+## 0.0.13 (2023-10-21)
+
+
+### Bug Fixes
+
+* Add alert texts to translation system
+* Add remaining amount from goal reached to next goal if exists
+
+## 0.0.12 (2023-10-21)
+
+
+### Bug Fixes
+
+* Add platform icon on alerts
+* Fix alert text for sub, raid and sub gift
+
 ## 0.0.11 (2023-10-21)
 
 
