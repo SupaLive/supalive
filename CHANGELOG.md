@@ -1,5 +1,12 @@
 
 
+## 0.0.18 (2023-10-24)
+
+
+### Bug Fixes
+
+* Fix youtube chat keeping old live settings 6e5b776
+
 ## 0.0.17 (2023-10-22)
 
 
