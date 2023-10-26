@@ -1,5 +1,12 @@
 
 
+## 0.0.21 (2023-10-26)
+
+
+### Bug Fixes
+
+* Increase YouTube live chat check interval e2a0e68
+
 ## 0.0.20 (2023-10-26)
 
 
