@@ -1,5 +1,12 @@
 
 
+## 0.0.22 (2023-10-27)
+
+
+### Bug Fixes
+
+* Remove continuation persistence for YouTube chat d3d0855
+
 ## 0.0.21 (2023-10-26)
 
 
