@@ -1,5 +1,12 @@
 
 
+## 0.0.23 (2023-10-28)
+
+
+### Bug Fixes
+
+* Slow down youtube chat fetching 5923bb5
+
 ## 0.0.22 (2023-10-27)
 
 
