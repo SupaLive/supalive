@@ -1,5 +1,12 @@
 
 
+## 0.0.25 (2023-10-29)
+
+
+### Bug Fixes
+
+* Enable continuation persistance c71bd59
+
 ## 0.0.24 (2023-10-28)
 
 
