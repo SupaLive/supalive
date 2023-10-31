@@ -1,5 +1,12 @@
 
 
+## 0.0.26 (2023-10-31)
+
+
+### Bug Fixes
+
+* Fix alerts update caebac1
+
 ## 0.0.25 (2023-10-29)
 
 
