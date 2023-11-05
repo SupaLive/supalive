@@ -1,5 +1,13 @@
 
 
+## 0.0.27 (2023-11-05)
+
+
+### Bug Fixes
+
+* Add persistency to alerts on database and remove continuation file logic 9d2fdcb
+* Fix YouTube connection issue 7851af7
+
 ## 0.0.26 (2023-10-31)
 
 
