@@ -1,5 +1,12 @@
 
 
+## 0.0.28 (2023-11-06)
+
+
+### Bug Fixes
+
+* Fix chat being listed as alert 1297d23
+
 ## 0.0.27 (2023-11-05)
 
 
