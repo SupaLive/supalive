@@ -1,5 +1,12 @@
 
 
+## 0.0.33 (2023-11-11)
+
+
+### Bug Fixes
+
+* Fix YouTube and Twitch connection logic ec0608b
+
 ## 0.0.32 (2023-11-11)
 
 
