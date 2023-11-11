@@ -1,5 +1,12 @@
 
 
+## 0.0.32 (2023-11-11)
+
+
+### Bug Fixes
+
+* Fix LivePix not connecting 2ea3b6e
+
 ## 0.0.31 (2023-11-11)
 
 
