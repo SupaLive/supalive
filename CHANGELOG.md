@@ -1,5 +1,12 @@
 
 
+## 0.0.34 (2023-11-11)
+
+
+### Bug Fixes
+
+* Fix external conenctions initialization timer a27e326
+
 ## 0.0.33 (2023-11-11)
 
 
