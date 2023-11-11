@@ -1,5 +1,13 @@
 
 
+## 0.0.29 (2023-11-11)
+
+
+### Bug Fixes
+
+* Add timeout and keepAlive to http client 1e2b082
+* Refactor YouTube chat and external connections to use timeout instead interval 1dddfbb
+
 ## 0.0.28 (2023-11-06)
 
 
