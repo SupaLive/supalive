@@ -1,5 +1,12 @@
 
 
+## 0.0.30 (2023-11-11)
+
+
+### Bug Fixes
+
+* Fix connection status ef8dff4
+
 ## 0.0.29 (2023-11-11)
 
 
