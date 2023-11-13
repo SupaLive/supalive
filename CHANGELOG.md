@@ -1,5 +1,13 @@
 
 
+## 0.0.35 (2023-11-13)
+
+
+### Bug Fixes
+
+* Add LivePix logic to prevent repeated alerts 791bd25
+* Fix Twitch client connection and join logic f896eae
+
 ## 0.0.34 (2023-11-11)
 
 
